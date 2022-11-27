@@ -12,7 +12,7 @@
 
 - 👯 I’m looking for **front end developer**
 
-- 👨‍💻 All of my projects are available at [shakeelayaan.netlify.app](shakeelayaan.netlify.app)
+- 👨‍💻 All of my projects are available at [shakeelayaan.netlify.app](https://www.shakeelayaan.netlify.app)
 
 - ..💬 Ask me about **Html Css JavaScript React Redux**
 
