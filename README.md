@@ -1,20 +1,20 @@
 <h1 align="center" >Hi 👋, I'm shakeel ayaan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">& passionate full stack => (MERN) developer</h3>
 <img src="https://camo.githubusercontent.com/1525da5a34dfdc4ead5027e8f9670080d35d41c62c2d5f91784c825cacd54eff/68747470733a2f2f696d672e6672656570696b2e636f6d2f667265652d766563746f722f70726f6772616d6d6572732d7573696e672d6a6176617363726970742d70726f6772616d6d696e672d6c616e67756167652d636f6d70757465722d74696e792d70656f706c652d6a6176617363726970742d6c616e67756167652d6a6176617363726970742d656e67696e652d6a732d7765622d646576656c6f706d656e742d636f6e636570742d6272696768742d76696272616e742d76696f6c65742d69736f6c617465642d696c6c757374726174696f6e5f3333353635372d3938362e6a70673f773d32303030" width="300" height="350" align="left"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakeelayaan&label=Profile%20views&color=0e75b6&style=flat" alt="shakeelayaan" /> </p>
 
 
 
 
-- 🔭 I’m currently working on **React js**
+- 🔭 I’m currently working on **React js & node js (MERN) projects **
 
 - 🌱 I’m currently learning **React native**
 
-- 👯 I’m looking for **front end developer**
+- 👯 I like to enjoy opportunites in  **front-end as well as back-end**
 
 - 👨‍💻 All of my projects are available at [shakeelayaan.netlify.app](https://shakeelayaan.netlify.app)
 
-- ..💬 Ask me about **Html Css JavaScript React Redux**
+- ..💬 Ask me about **Html Css JavaScript React Redux node express mongodb**
 
 - 📫 How to reach me **shakeelayaan93@gmail.com**
 -     contact me **7387731313**
