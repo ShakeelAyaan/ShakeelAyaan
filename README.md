@@ -13,6 +13,9 @@
 - 👯 I like to enjoy opportunites in  **front-end as well as back-end**
 
 - 👨‍💻 All of my projects are available at [shakeelayaan.netlify.app](https://shakeelayaan.netlify.app)
+https://shakeelayaan.github.io/Ludo/body.html
+https://moviesimg.netlify.app
+https://esho.netlify.app
 
 - ..💬 Ask me about **Html Css JavaScript React Redux node express mongodb**
 
